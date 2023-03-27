@@ -1,0 +1,15 @@
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.exe
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.deps.json
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.runtimeconfig.json
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.dll
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\bin\Debug\net6.0\PrimeFactorization.pdb
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.csproj.AssemblyReference.cache
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.AssemblyInfoInputs.cache
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.AssemblyInfo.cs
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.csproj.CoreCompileInputs.cache
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.dll
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\refint\PrimeFactorization.dll
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.pdb
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\PrimeFactorization.genruntimeconfig.cache
+C:\Users\c67436\source\repos\PrimeFactorization\PrimeFactorization\obj\Debug\net6.0\ref\PrimeFactorization.dll

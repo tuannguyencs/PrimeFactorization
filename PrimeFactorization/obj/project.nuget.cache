@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/o/ZEw/QIec0YsHGb5ckG4Ly7Zpqrke6YA7haiddED6D8d80EiCBWj7D2faJp/GNzwW0kIVFcA3PQ6PTW55QwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c67436\\source\\repos\\PrimeFactorization\\PrimeFactorization\\PrimeFactorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c67436\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\c67436\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\c67436\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\c67436\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
